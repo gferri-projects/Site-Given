@@ -97,7 +97,7 @@
 	  }
 
 	  .top{
-		  margin-top: 10%;
+		  margin-top: 15%;
 	  }
 
 
@@ -528,12 +528,13 @@
 				float: left;
 			}
 				nav ul li:hover {
-				border-bottom: 5px solid #354f76;
 				color: #fff;
+				border-bottom: 5px solid #354f76;
+				
 						
 					}
 				nav ul li a:hover {
-					color: #fff;
+					color: #354f76;
 					}
 				
 				nav ul li a {
@@ -572,7 +573,7 @@
 		.menu_opcoes{
 			position: absolute;
 			right: 8%;
-			top:40%;}
+			top:30%;}
 
 
 		.menu_opcoes ul li{
